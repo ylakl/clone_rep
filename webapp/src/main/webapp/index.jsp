@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This is sample app for maven build</h1>
+   <h1> Hello GitHub!</h1>
 
   
 </form>
